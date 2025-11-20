@@ -33,7 +33,7 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       <ul
-        className={`md:hidden absolute bg-amber-300 z-10 w-full left-0 top-[80px] flex flex-col items-center gap-6 py-6 text-[20px] font-medium shadow-md transition-all duration-300
+        className={`md:hidden absolute bg-gray-100 z-10 w-full left-0 top-[80px] flex flex-col items-center gap-6 py-6 text-[20px] font-medium shadow-md transition-all duration-300
         ${open ? "opacity-100 visible" : "opacity-0 invisible"}`}
       >
         <li onClick={() => setOpen(false)} className="hover:text-[#48B958]"><Link to="/">Home</Link></li>
