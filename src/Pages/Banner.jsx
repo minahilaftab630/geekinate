@@ -25,7 +25,7 @@ const Banner = () => {
     </div>
     
     <div className="boxes2 h-[500px] w-[50%]"  data-aos="zoom-in-up">
-        <img src={react} alt="" className='w-[70%] md:w-[90%] md:mt-[20%]' />
+        <img src={react} alt="" className='w-[100%] mt-[70%] md:w-[90%] md:mt-[20%]' />
     </div>
  </div>
 
