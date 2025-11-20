@@ -18,7 +18,7 @@ const Form = () => {
    </div>
    <div className="form flex flex-col justify-center items-center gap-[20px] w-[100%]  md:flex-row md:justify-center md:items-center ">
     <div className="box2 w-[100%] h-[400px] sm:w-[60%]">
-      <img src={contact} alt="" className='w-[70%] ml-[10%]  sm:mt-[10%] md:ml-[40%] md:w-[50%]'  data-aos="zoom-in-right"/>   
+      <img src={contact} alt="" className='w-[70%] ml-[10%] mt-[50%] sm:mt-[10%] md:ml-[40%] md:w-[50%]'  data-aos="zoom-in-right"/>   
     </div>
     <div className="box2  w-[70%]  h-[400px]  border-2 border-[#edf2f2] rounded-[5px] md:w-[40%] md:mr-[20%] md:mt-[10%] ">
         
