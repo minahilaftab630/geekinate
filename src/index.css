@@ -1,0 +1,24 @@
+@import "tailwindcss";
+html,body{
+    overflow-x:hidden ;
+    scroll-behavior: smooth;
+}
+.custom-shape-divider-top-1763071584 {
+    position: absolute;
+    
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1763071584 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 36px;
+}
+
+.custom-shape-divider-top-1763071584 .shape-fill {
+    fill: #ffffff;
+}
