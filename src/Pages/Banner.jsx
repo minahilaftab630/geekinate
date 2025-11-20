@@ -6,9 +6,9 @@ const Banner = () => {
  <>
  <div className="banner bg-[#F8F9FC] w-[100%] flex flex-col  justify-center items-center gap-[20px] md:flex-row" id='banner'>
     
-    <div className="boxes2h-[500px] w-[90%]">
-    <div className="innerdiv mt-[8%] ml-[8%]">
-     <h1 className='text-[40px]' data-aos="zoom-in-up">We are here to <span className='text-[#48B958]'>Geekinate </span>your needs</h1> 
+    <div className="boxes2 h-[500px] w-[90%]">
+    <div className="innerdiv mt-[40%] ml-[8%] md:mt-[10%]">
+     <h1 className='text-[30px] md:text-[40px]' data-aos="zoom-in-up">We are here to <span className='text-[#48B958]'>Geekinate </span>your needs</h1> 
      <br />
  <p className='text-[20px]' data-aos="zoom-in-up">Geekinate is the process of getting your technology needs fulfilled by our team of Geeks.
 </p>
