@@ -14,7 +14,7 @@ const Banner = () => {
 </p>
 <br />
 
-<button  className=' bg-[#48B958] text-white h-[40px] w-[40%] rounded-[8px] hover:bg-green-600 hover:cursor-pointer sm:w-[30%] '   data-aos="zoom-in-up">
+<button  className=' bg-[#48B958] text-white h-[40px] w-[50%] rounded-[8px] hover:bg-green-600 hover:cursor-pointer sm:w-[30%] '   data-aos="zoom-in-up">
   
   <a href="#contact">LET'S CONNECT</a>
   

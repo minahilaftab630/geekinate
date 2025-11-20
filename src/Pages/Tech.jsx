@@ -52,7 +52,7 @@ const Tech = () => {
 
         </div>
         <div className="boxes2 w-[90%] h-[500px]">
-<img src={test}alt="" className='w-[90%] sm:w-[60%] sm:ml-[30%] sm:mt-[20%] md:w-[50%] md:ml-[10%] ' data-aos="zoom-in-up" />
+<img src={test}alt="" className='w-[90%] mt-[65%] sm:w-[60%] sm:ml-[30%] sm:mt-[20%] md:w-[50%] md:ml-[10%] ' data-aos="zoom-in-up" />
         </div>
     </div>
     </>
