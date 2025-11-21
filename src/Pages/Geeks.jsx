@@ -25,7 +25,7 @@ const Geeks = () => {
             className="sqr bg-gradient-to-r from-green-50 to-green-300 h-[60px] w-[60px]  rotate-45 rounded-[5px]  m-auto"> 
             </motion.div>
           
-          <span> <FaUser className='relative bottom-[43px] left-[145px] text-[35px] md:left-[40%]' /></span>
+          <span> <FaUser className='relative bottom-[43px] left-[135px] text-[35px] md:left-[40%]' /></span>
 
           <br />
           <h3>Tech-Consultancy</h3>
